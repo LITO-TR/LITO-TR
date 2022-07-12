@@ -1,4 +1,4 @@
-# Hola 👋
-# Hi 👋
-# Hallo 👋
-# Óla
+- Hola 👋
+- Hi 👋
+- Hallo 👋
+- Óla
