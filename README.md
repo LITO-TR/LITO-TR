@@ -1,6 +1,4 @@
 - Hola 👋
-- Hi 👋
-- Hallo 👋
-- Óla
+
 
 
